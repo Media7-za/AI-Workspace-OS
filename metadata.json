@@ -1,0 +1,8 @@
+{
+  "name": "AI Workspace OS",
+  "description": "An operational workspace for managing AI sessions, project context, and architectural decisions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
